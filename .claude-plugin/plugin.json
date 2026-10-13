@@ -1,0 +1,1 @@
+{ "name": "strip-commit-attribution", "version": "0.1.0", "description": "Strips Claude/Anthropic attribution from git commit messages and PR bodies" }
